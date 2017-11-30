@@ -17,7 +17,7 @@ public class FlightPlanner extends ConsoleProgram {
 	}
 	
 
-	/**NOTE: UNFINISHED CODE!! Boileplate code to open a BufferedReader and read things given a filename,
+	/**NOTE: UNFINISHED CODE!! Boilerplate code to open a BufferedReader and read things given a filename,
 	 * you should implement functionality for a FlightPlanner and flights.txt
 	 * 
 	 * 
